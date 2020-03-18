@@ -36,6 +36,9 @@ resultado = Math.max(3,6,5,9,7,8);
 //Aleatorio
 resultado = Math.random();
 
+let puntaje = 10;
+
+
 resultado = 10 + 20 * 5;
 
 console.log(resultado)
